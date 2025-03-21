@@ -3,7 +3,7 @@ This is the official repository of  **MOBINS** (**MOBI**lity **N**etworked time 
 
 <!-- ![Benchmark Dataset Page 1](./assets/Benchmark_Dataset.png) -->
 
-<img src="https://github.com/kaist-dmlab/MOBINS/blob/main/assets/Benchmark_Dataset.png" width="50%" height="50%"/>
+<img src="https://github.com/kaist-dmlab/MOBINS/blob/main/assets/Benchmark_Dataset.png" width="70%" height="70%"/>
 
 ## 1. Overview
 Human mobility is crucial for urban planning (e.g., public transportation) and epidemic response strategies. However, existing research often neglects integrating comprehensive perspectives on spatial dynamics, temporal trends, and other contextual views due to the limitations of existing mobility datasets. To bridge this gap, we introduce **MOBINS** (**MOBI**lity **N**etworked time **S**eries), a novel dataset collection designed for networked time-series forecasting of dynamic human movements. **MOBINS** features diverse and explainable datasets that capture various mobility patterns across different transportation modes in four cities and two countries and cover both transportation and epidemic domains at the administrative area level. Our experiments with nine baseline methods reveal the significant impact of different model backbones on the proposed six datasets. We provide a valuable resource for advancing urban mobility research, and our dataset collection is available at DOI 10.5281/zenodo.14590709.
@@ -53,7 +53,7 @@ Additional information
 - Overview of dataset description
 
 <!-- ![Benchmark Dataset Page 2](./assets/Transportation_Epidemic.png) -->
-<img src="https://github.com/kaist-dmlab/MOBINS/blob/main/assets/Transportation_Epidemic.png" width="70%" height="70%"/>
+<img src="https://github.com/kaist-dmlab/MOBINS/blob/main/assets/Transportation_Epidemic.png" width="80%" height="80%"/>
 
 
 - Target dimension: OD Movements + Time Series = $n^2 + d*n$ where $n$ = # of nodes and $d$ = # of variables
